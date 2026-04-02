@@ -1,0 +1,6 @@
+../Core/Src/mpu9250.c:16:13:set_resolutions	16	static
+../Core/Src/mpu9250.c:32:8:mpu9250_init	32	static
+../Core/Src/mpu9250.c:66:8:mpu9250_read_accel_gyro	56	static
+../Core/Src/mpu9250.c:91:8:mpu9250_read_mag	40	static
+../Core/Src/mpu9250.c:106:6:mpu9250_calibrate_mag	48	static
+../Core/Src/mpu9250.c:133:6:mpu9250_compute_attitude	48	static
