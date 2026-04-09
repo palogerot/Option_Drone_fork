@@ -50,7 +50,7 @@ Dans `main.c` :
 // #define RECEIVER
 ```
 
-## 🔌 Connexions principales
+## Connexions principales
 
 | nRF24L01+ | STM32     |
 | --------- | --------- |
